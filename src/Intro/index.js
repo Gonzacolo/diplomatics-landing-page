@@ -14,7 +14,7 @@ function Intro () {
                     Diplomatics is the simplest way to reward your students with nontransferable On-Chain certifications.
                 </p>
                 <p className="IntroText">
-                    We check manually with our Curation Team which institutions are allowed to generate Diplomas. This kind of certificate is really relevant, only validated institutions should be able to issue them.
+                    We check manually with our Curation Team, which institutions are allowed to generate Diplomas. Those certifications are important, only validated institutions should be able to issue them.
                 </p>
                 <div className="IntroButtonContainer">
                     <button 
